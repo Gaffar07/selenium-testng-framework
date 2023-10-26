@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.FluentWait;
 /**
  * The Class BasePage every Page should extend this class.
  *
- * @author Bharathish
+ * @author Gaffar
  */
 public class BasePage {
 
